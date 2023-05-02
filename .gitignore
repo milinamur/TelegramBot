@@ -1,7 +1,7 @@
-/data
-/venv
-/.idea
-/.ipynb_checkpoints
-/__pycache__
+venv/
+.idea/
+.ipynb_checkpoints/
+__pycache__/
 mybot.py
-*.ipynb
+Untitled.ipynb
+.ipynb_checkpoints
